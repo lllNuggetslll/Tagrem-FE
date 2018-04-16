@@ -17,7 +17,7 @@ const Container = styled.div`
 const Body = styled.div`
   padding: 25px 50px 50px 50px;
 
-  @media (max-width: 465px) {
+  @media (max-width: 550px) {
     padding: 20px;
   }
 `;

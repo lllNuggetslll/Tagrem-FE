@@ -85,7 +85,7 @@ const BuyButton = styled.button`
 const ButtonContent = styled.div`
   display: flex;
 
-  @media (max-width: 465px) {
+  @media (max-width: 550px) {
     justify-content: space-between;
   }
 `;
