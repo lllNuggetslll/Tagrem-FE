@@ -13,7 +13,7 @@ const BottomSectionContainer = styled.div`
   background-color: #f2f2f2;
   padding: 40px;
 
-  @media (max-width: 600px) {
+  @media (max-width: 590px) {
     min-width: 280px;
     padding: 20px;
   }
@@ -45,7 +45,7 @@ const Label = styled.div`
   margin-right: 10px;
   white-space: nowrap;
 
-  @media (max-width: 600px) {
+  @media (max-width: 590px) {
     display: none;
   }
 `;

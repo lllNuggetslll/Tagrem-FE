@@ -8,7 +8,7 @@ const MidSectionContainer = styled.div`
   background-color: #f2f2f2;
   padding: 40px;
 
-  @media (max-width: 600px) {
+  @media (max-width: 590px) {
     min-width: 280px;
     padding: 20px;
   }
