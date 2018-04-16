@@ -14,7 +14,7 @@ const ProductDetailsContainer = styled.div`
   padding: 40px
   margin: 20px 5px 5px 0;
 
-  @media (max-width: 550px) {
+  @media (max-width: 600px) {
     padding: 15px;
   }
 `;
@@ -61,7 +61,7 @@ const X = styled.img`
   left: 20px;
   bottom: 20px;
 
-  @media (max-width: 550px) {
+  @media (max-width: 600px) {
     left: 5px;
     bottom: 5px;
   }
@@ -85,7 +85,7 @@ const BuyButton = styled.button`
 const ButtonContent = styled.div`
   display: flex;
 
-  @media (max-width: 550px) {
+  @media (max-width: 600px) {
     justify-content: space-between;
   }
 `;

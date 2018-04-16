@@ -42,7 +42,7 @@ const Button = styled.button`
 const ButtonContent = styled.div`
   display: flex;
 
-  @media (max-width: 550px) {
+  @media (max-width: 600px) {
     justify-content: space-between;
   }
 `;

@@ -13,7 +13,7 @@ const BottomSectionContainer = styled.div`
   background-color: #f2f2f2;
   padding: 40px;
 
-  @media (max-width: 550px) {
+  @media (max-width: 600px) {
     min-width: 280px;
     padding: 20px;
   }
