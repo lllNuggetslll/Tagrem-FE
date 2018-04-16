@@ -77,7 +77,7 @@ const BuyButton = styled.button`
   padding: 10px;
   margin-bottom: 10px;
 
-  @media (max-width: 465px) {
+  @media (max-width: 696px) {
     width: 100%;
   }
 `;
